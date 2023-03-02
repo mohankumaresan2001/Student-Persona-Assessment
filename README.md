@@ -10,6 +10,7 @@ ABOUT THE PROJECT
     This project entitled “Student Persona Assessment” Creates a web application on automation process of marking, academic Achievement, Refinements of Gurukula, Physical Culture, Attendance Verification for the Physical jerks, Asanas, mass Drill and Students Personal Details.
 
 ACADEMIC ACHIEVEMENT
+
 	The Assessment for academic achievement consists of the following fields,
         Part - I	:	Tamil/Sanskrit/Hindi
         Part – II	:	English
@@ -18,6 +19,7 @@ ACADEMIC ACHIEVEMENT
 Assessment for above Subject is consider in four main components, they are Knowledge, Understanding, Resourcefulness and Perseverance.
 
 REFINEMENTS OF GURUKULA
+
 	The student Refinements of Gurukula will be classified in 12 categories, they are
         Response to Prayer
         Social Relationship
@@ -33,4 +35,5 @@ REFINEMENTS OF GURUKULA
         Response of Life Training
 
 PHYSICAL CULTURE
+
 	Department of Physical Education conduct Athletics events for student periodically. The Assessment for Physical Culture will be considered the following Athletics events.  They are 100 Meter Dash, 400 Meter Dash, Long Jump and Pull Ups.
